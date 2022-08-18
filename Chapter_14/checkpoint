@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNN_reg_Netflix_Inc_(NFLX.O)"
+all_model_checkpoint_paths: "RNN_reg_Netflix_Inc_(NFLX.O)"

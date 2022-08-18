@@ -1,0 +1,2 @@
+model_checkpoint_path: "ANN_reg_AAPL.a"
+all_model_checkpoint_paths: "ANN_reg_AAPL.a"
