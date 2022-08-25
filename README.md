@@ -1,9 +1,9 @@
 # Python for finance and algorithmic trading (2nd edition)
 📚Find the book:https://www.amazon.com/Python-Finance-Algorithmic-Trading-ready/dp/B09HG18CYL
 
-The financial sector is undergoing significant restructuring. Traders and portfolio managers are increasingly becoming financial data scientists. Banks, hedge funds, and fintech are increasingly automating their investments by integrating machine learning and deep learning algorithms into their decision-making process. This book aims to present the benefits of **portfolio management, statistics, and machine learning applied to live trading with MetaTrader 5**.
+The financial sector is undergoing significant restructuring. Traders and portfolio managers are increasingly becoming financial data scientists. Banks, hedge funds, and fintech are increasingly automating their investments by integrating machine learning and deep learning algorithms into their decision-making process. This book aims to present the benefits of **portfolio management, statistics, and machine learning applied to live trading with MetaTrader 5**.<img width="448" alt="Capture d’écran 2022-08-25 à 09 51 47" src="https://user-images.githubusercontent.com/82716153/186607432-d6734f1d-946b-426b-b6f4-e44c0e8679f3.png">
 
-![couverture_kindle](https://user-images.githubusercontent.com/82716153/186607180-c5d45841-0293-4ef4-9006-a3185a2a9329.jpg)
+
 
 * Learn portfolio management technics and how to implement your optimization criterion
 * How to backtest a strategy using the most valuable metrics in trading
