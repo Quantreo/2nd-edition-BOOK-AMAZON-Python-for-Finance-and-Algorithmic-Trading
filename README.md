@@ -1,8 +1,7 @@
 # Python for finance and algorithmic trading (2nd edition)
 📚Find the book:https://www.amazon.com/Python-Finance-Algorithmic-trading-MetaTraderTM5/dp/B0BB5DDB1Q
 
-This second version has allowed us to tweak some points of the existing chapters but especially to add 3 new chapters based on your feedbacks of the first version. So I am proud to offer you 3 new chapters: "Advanced backtest methods", ”Features and target engineering" and ”From nothing to a live trading bot". The book presents the benefits of portfolio management, statistics and machine learning applied to live trading with MetaTrader™ 5. 
-![image](https://user-images.githubusercontent.com/82716153/186608349-6e088373-2c7b-4a0f-abea-a33af6c99bb6.png)
+This second version has allowed us to tweak some points of the existing chapters but especially to add **3 new chapters** based on your feedbacks of the first version. So I am proud to offer you 3 new chapters: **"Advanced backtest methods"**, **”Features and target engineering"** and **”From nothing to a live trading bot"**. **The book presents the benefits of portfolio management, statistics and machine learning applied to live trading with MetaTrader™ 5**. 
 
 <img width="448" alt="Capture d’écran 2022-08-25 à 09 51 47" src="https://user-images.githubusercontent.com/82716153/186607432-d6734f1d-946b-426b-b6f4-e44c0e8679f3.png">
 
