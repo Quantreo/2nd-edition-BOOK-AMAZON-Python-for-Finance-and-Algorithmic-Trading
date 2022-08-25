@@ -3,7 +3,7 @@
 
 The financial sector is undergoing significant restructuring. Traders and portfolio managers are increasingly becoming financial data scientists. Banks, hedge funds, and fintech are increasingly automating their investments by integrating machine learning and deep learning algorithms into their decision-making process. This book aims to present the benefits of **portfolio management, statistics, and machine learning applied to live trading with MetaTrader 5**.
 
-https://www.quantreo.com/wp-content/uploads/2022/08/couverture_kindle.png
+!https://www.quantreo.com/wp-content/uploads/2022/08/couverture_kindle.png
 
 
 * Learn portfolio management technics and how to implement your optimization criterion
